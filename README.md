@@ -33,3 +33,13 @@ And to work on real-world, impact-driven projects.
   - Defined learning roadmap  
 
 This is just the beginning.
+
+- **Day 2:**  
+  - Learned Python variables and data types  
+  - Practiced user input and basic programs  
+  - Wrote and pushed first Python practice file  
+
+
+
+
+
