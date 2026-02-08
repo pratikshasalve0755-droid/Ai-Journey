@@ -39,7 +39,7 @@ This is just the beginning.
   - Practiced user input and basic programs  
   - Wrote and pushed first Python practice file
     
--**Day 3:**  
+- **Day 3:**  
   - Learned conditional statements and loops  
   - Practiced logic-based Python programs  
   - Built a number guessing game  
