@@ -28,7 +28,7 @@ And to work on real-world, impact-driven projects.
 
 ## Progress Log
 - **Day 1:**  
-  - Understood AI vs ML vs Data Science  
+  - Understood AI vs ML vs Data Science vs Deep Learning  
   - Set up Python, VS Code, and Jupyter Notebook  
   - Defined learning roadmap  
 
