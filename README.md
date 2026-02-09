@@ -42,7 +42,15 @@ This is just the beginning.
 - **Day 3:**  
   - Learned conditional statements and loops  
   - Practiced logic-based Python programs  
-  - Built a number guessing game  
+  - Built a number guessing game
+  - 
+- **Day 4:**
+  - Learned how to write and use Python functions
+  - Understood the importance of return vs print
+  - Built a mini project: Calculator using functions
+  - Handled edge cases like division by zero
+  - Practiced basic Git and GitHub concepts
+
 
 
 
