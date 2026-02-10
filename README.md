@@ -50,6 +50,13 @@ This is just the beginning.
   - Built a mini project: Calculator using functions
   - Handled edge cases like division by zero
   - Practiced basic Git and GitHub concepts
+  
+- **Day 5:**
+  - Learned Python lists and indexing
+  - Practiced list operations
+  - Used loops with lists
+  - Built mini project: Student Marks Analyzer
+
 
 
 
