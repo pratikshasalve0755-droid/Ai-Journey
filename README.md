@@ -57,6 +57,13 @@ This is just the beginning.
   - Used loops with lists
   - Built mini project: Student Marks Analyzer
 
+- **Day 6:**  
+  - Learned tuples and immutability  
+  - Learned dictionaries (key-value pairs)  
+  - Practiced dictionary operations  
+  - Built a student record manager mini project  
+
+
 
 
 
