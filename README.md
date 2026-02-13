@@ -63,6 +63,13 @@ This is just the beginning.
   - Practiced dictionary operations  
   - Built a student record manager mini project  
 
+- **Day 7:**
+  - Practiced advanced loop logic
+  - Learned to manually find max/min values
+  - Built Number Analyzer Pro project
+  - Strengthened problem-solving skills
+
+
 
 
 
