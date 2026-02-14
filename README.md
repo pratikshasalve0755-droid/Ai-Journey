@@ -69,6 +69,12 @@ This is just the beginning.
   - Built Number Analyzer Pro project
   - Strengthened problem-solving skills
 
+- **Day 8:**
+  - Practiced advanced function logic 
+  - Learned about multiple return values and function scope
+  - Built Student Report Generator using modular functions
+  - Strengthened structured and reusable coding skills
+
 
 
 
