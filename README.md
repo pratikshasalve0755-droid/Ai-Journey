@@ -75,6 +75,11 @@ This is just the beginning.
   - Built Student Report Generator using modular functions
   - Strengthened structured and reusable coding skills
 
+- **Day 9:**
+  - Practiced string manipulation and text processing
+  - Learned string indexing, slicing, and important string methods 
+  - Built Text Analyzer Pro project
+  - Strengthened logical thinking with text-based problems
 
 
 
