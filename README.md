@@ -81,6 +81,12 @@ This is just the beginning.
   - Built Text Analyzer Pro project
   - Strengthened logical thinking with text-based problems
 
+- **Day 10:**
+  - Practiced advanced list manipulation
+  - Learned manual sorting and duplicate removal
+  - Built Shopping Cart Manager project 
+  - Strengthened real-world data handling logic
+
 
 
 
