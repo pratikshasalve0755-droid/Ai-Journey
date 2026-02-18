@@ -2,7 +2,7 @@
 
 print("\nMini Project : Student Record Manager")
 print("\n")
-name = input("Enter Name: ")
+name = input("Enter name:")
 age = int(input("Enter age: "))
 marks = int(input("Enter marks: "))
 

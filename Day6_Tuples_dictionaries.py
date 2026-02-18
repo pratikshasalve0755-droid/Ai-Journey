@@ -19,7 +19,7 @@ student ={ "name" : "niki",
            "age": 25,
            "marks": 88}
 
-print("student =" ,student)             #print entire dictionary
+print("student =" ,student)                                          #print entire dictionary
 a=student["name"]
 print("\n1. The value of the  name key :" ,a)                        #print value of the name key
 

@@ -1,6 +1,6 @@
 #MinProject: Number Analyzer Pro
 
-numbers = []
+number = []
 total = 0
 even_count = 0
 odd_count = 0

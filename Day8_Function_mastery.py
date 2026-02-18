@@ -65,7 +65,7 @@ def check_vowels(string):
 
 string =input("Enter name: ")
 vowel_count , consonant_count =check_vowels(string)
-print(f"The {string} contains \n {vowel_count} vowels and \n {consonant_count} consonants")
+print(f"The {string} contains \n {vowel_count} vowels and \n {consonant_count} consonants ")
 
 
 

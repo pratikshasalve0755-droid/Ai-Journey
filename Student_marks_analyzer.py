@@ -1,7 +1,6 @@
 # Mini Project 2: Student Marks Analyzer
 
-marks = []
-
+marks =[]
 num = int(input("\nEnter number of students:"))
 for  i in range (num):
     mark =int(input("Enter marks:"))

@@ -8,7 +8,7 @@ Goal = "learn to Code"     # learn to code is asign to variable goal
 
 print(Name, Age , Goal)    # output : Pratiksha  22  Learn to  Code
 OR
-print("Name:Rutuja Gaikwad")
+print("Name:Pratiksha salve")
 print("Age: 22 ")
 print("Goal: Learn to Code")
 
