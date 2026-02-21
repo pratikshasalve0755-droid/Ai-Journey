@@ -87,6 +87,12 @@ This is just the beginning.
   - Built Shopping Cart Manager project 
   - Strengthened real-world data handling logic
 
+- **Day 11:**
+  - Practiced dictionary data structure
+  - Learned key-value data handling
+  - Built Contact Book Manager project
+  - Strengthened structured data management skills
+
 
 
 
