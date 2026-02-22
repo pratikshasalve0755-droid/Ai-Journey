@@ -13,7 +13,7 @@ print("The Reversed text:" ,reversed_text)
 print("-----------------------------------------------------")
 
 #Program 2: Count (vowels ,consonants and space)
-print("Program 2: Count (vowwels ,consonants and spaces)")
+print("Program 2: Count (vowels ,consonants and spaces)")
 
 text = input("enter the text :")
 vowels = "aeiouAEIOU"
