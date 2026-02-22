@@ -77,7 +77,7 @@ for  i in range(n-1):
            num[j] , num[j+1]  = num[j +1] , num[j]
 print("Sorted List: " , num)
 
-print("------------------------------")
+print("---------------------------------")
 
 #Using Selection sort logic
 
