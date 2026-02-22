@@ -1,5 +1,5 @@
 #Program 1: Print sum ,average ,largest and smallest from the list
-"""print("Program 1: Print sum, average, largest and smallest numbers from list")
+print("Program 1: Print sum, average, largest and smallest numbers from list")
 
 numbers = []
 for i in range (5):
@@ -59,7 +59,7 @@ for j in range(4):
 print("\nList_2 =" ,list_2)
 
 list_3 = list_1 + list_2
-print("\nList =" ,list_3)"""
+print("\nList =" ,list_3)
 
 print("------------------------------")
 #Program 4:Sort thr list manually(without sort())
