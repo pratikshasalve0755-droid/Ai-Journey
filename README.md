@@ -93,6 +93,12 @@ This is just the beginning.
   - Built Contact Book Manager project
   - Strengthened structured data management skills
 
+- **Day 12:**
+  - Revised Python fundamentals from Day 1–11
+  - Practiced combining lists, functions, strings, and dictionaries
+  - Built Student Data Management System
+  - Strengthened overall logical thinking and data structure clarit
+
 
 
 
