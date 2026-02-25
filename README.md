@@ -97,7 +97,13 @@ This is just the beginning.
   - Revised Python fundamentals from Day 1–11
   - Practiced combining lists, functions, strings, and dictionaries
   - Built Student Data Management System
-  - Strengthened overall logical thinking and data structure clarit
+  - Strengthened overall logical thinking and data structure clarity
+
+- **Day 13:**
+  - Learned file handling in Python
+  - Practiced writing, reading, searching, and counting data from files
+  - Built Persistent Contact Book with real data storage
+  - Understood difference between temporary memory and permanent storage
 
 
 
