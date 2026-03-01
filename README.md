@@ -105,6 +105,11 @@ This is just the beginning.
   - Built Persistent Contact Book with real data storage
   - Understood difference between temporary memory and permanent storage
 
+- **Day 14:**
+  - Learned structured CSV file handling
+  - Built Personal Budget Tracker system
+  - Implemented expense tracking and category totals
+  - Applied real-world data management concepts
 
 
 
