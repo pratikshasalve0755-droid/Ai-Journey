@@ -111,6 +111,11 @@ This is just the beginning.
   - Implemented expense tracking and category totals
   - Applied real-world data management concepts
 
+- **Day 15:**
+  - Learned Exception Handling in Python
+  - Handled common runtime errors gracefully
+  - Upgraded Budget Tracker with professional error handling
+  - Improved program reliability and robustness
 
 
 
