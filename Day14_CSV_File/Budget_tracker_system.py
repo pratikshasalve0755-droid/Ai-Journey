@@ -5,7 +5,7 @@ import os
 
 while True:
     print("\n------Welcome to the Budget tracker System------")
-    print("\nSelect Options:-\n"
+    print("\nSelect Options:-\n" 
       "1) Add Expense \n"
       "2) View All Expenses \n"
       "3) View Total Spending \n"
@@ -76,12 +76,11 @@ while True:
                      amount = float(row[2])                  #assuming that amount is at the 4th position
 
                      if category in category_totals:
-                        category_totals[category] += amount
+                         category_totals[category] += amount
                      else:
                         category_totals[category] = amount
             print("\nCategory-wise Spending:")
             print("--------------------------")
-
             for category , total in category_totals.items():
                print(f"{category} : Rs.{total}")
 

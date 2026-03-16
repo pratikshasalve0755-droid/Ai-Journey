@@ -5,7 +5,7 @@ numbers = [10 ,20, 30, 40, 50]
 
 print("list:",numbers)               # prints whole list
 print("The first element is:",numbers[0])           # print  the number at 0 index
-print("The last element is :", numbers[4])           # print the nuber at index 4
+print("The last element is :", numbers[4])           # print the number at index 4
 print("The length of the List: ", len(numbers))      # print the length of the list
 
 print("---------------------------------------------------------------------------------------------------------")
