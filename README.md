@@ -117,6 +117,13 @@ This is just the beginning.
   - Upgraded Budget Tracker with professional error handling
   - Improved program reliability and robustness
 
+- **Day 16:**
+  - Revised Python fundamentals (lists, dictionaries, loops)
+  - Practiced file handling and exception handling
+  - Built Movie Collection Manager project
+  - Built Gym Member Manager project
+  - Strengthened logic and real-world programming skills
+
 
 
 
