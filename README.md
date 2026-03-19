@@ -124,6 +124,12 @@ This is just the beginning.
   - Built Gym Member Manager project
   - Strengthened logic and real-world programming skills
 
+- **Day 17:**
+  - Learned Object Oriented Programming basics
+  - Understood classes, objects, attributes, and methods
+  - Practiced constructor (__init__) and self keyword
+  - Built Library Book Manager using OOP
+
 
 
 
