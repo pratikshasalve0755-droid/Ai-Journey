@@ -130,6 +130,12 @@ This is just the beginning.
   - Practiced constructor (__init__) and self keyword
   - Built Library Book Manager using OOP
 
+- **Day 18:**
+  - Learned advanced OOP concepts
+  - Worked with multiple objects and lists of objects
+  - Practiced __str__() and object interaction
+  - Built Contact Book using OOP principles
+
 
 
 
