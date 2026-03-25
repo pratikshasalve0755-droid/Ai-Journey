@@ -136,6 +136,12 @@ This is just the beginning.
   - Practiced __str__() and object interaction
   - Built Contact Book using OOP principles
 
+- **Day 19:**
+ - Learned to combine OOP with file handling
+ - Stored and retrieved objects using CSV files
+ - Built Expense Tracker using OOP and file handling
+ - Improved understanding of real-world data storage
+
 
 
 
