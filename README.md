@@ -142,6 +142,12 @@ This is just the beginning.
  - Built Expense Tracker using OOP and file handling
  - Improved understanding of real-world data storage
 
+- **Day 20:**
+ - Revised OOP with file handling concepts
+ - Practiced storing and analyzing data using CSV files
+ - Built Movie Collection System with search and rating features
+ - Improved logic building and real-world system design
+
 
 
 
