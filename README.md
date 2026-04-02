@@ -148,6 +148,12 @@ This is just the beginning.
  - Built Movie Collection System with search and rating features
  - Improved logic building and real-world system design
 
+- **Day 21:**
+ - Learned advanced OOP concepts with multiple class interaction
+ - Built systems using object relationships
+ - Created Library Management System with book issuing logic
+ - Improved real-world problem modeling skills
+
 
 
 
