@@ -154,6 +154,12 @@ This is just the beginning.
  - Created Library Management System with book issuing logic
  - Improved real-world problem modeling skills
 
+- **Day 22:**
+ - Revised advanced OOP concepts with multiple class interactions
+ - Built systems like Cart, Bank, and Teacher-Subject mapping
+ - Created Restaurant Order Management System
+ - Improved object relationship and logic-building skills
+
 
 
 
