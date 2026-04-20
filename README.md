@@ -160,6 +160,12 @@ This is just the beginning.
  - Created Restaurant Order Management System
  - Improved object relationship and logic-building skills
 
+- **Day 23:**
+ - Practiced Encapsulation (data protection)
+ - Learned private variables and getter/setter methods
+ - Built Secure Wallet System project
+ - Improved control over data access
+
 
 
 
