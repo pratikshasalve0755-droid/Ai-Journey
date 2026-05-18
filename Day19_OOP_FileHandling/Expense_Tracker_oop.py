@@ -35,7 +35,7 @@ class ExpenseManager:
             print("Invalid amount!")
             return
 
-        description = input("Enter Description: ").strip()
+        description = input("Enter Description:  ").strip()
 
         expense = Expense(date, category, amount, description)
 
@@ -166,30 +166,6 @@ class ExpenseManager:
 # Run program
 manager = ExpenseManager()
 manager.main_menu()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

@@ -85,23 +85,3 @@ class Order:
 
 manager = Order()
 manager.main_menu()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

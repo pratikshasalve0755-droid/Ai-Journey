@@ -20,9 +20,6 @@ class Student:
             for c in self.course_list:
                 print("-" , c)
 
-"""class Course:
-    def __init__(self , course):
-        self.course = course"""
 
 
 class StudentManager:

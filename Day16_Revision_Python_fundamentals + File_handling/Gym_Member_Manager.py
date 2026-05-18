@@ -189,7 +189,7 @@ def update_member():
 
 
 
-def main_menu():
+def main_menu() :
     while True:
 
           print("\n------- Welcome to Gym Member Manager-------- ")

@@ -137,34 +137,62 @@ This is just the beginning.
   - Built Contact Book using OOP principles
 
 - **Day 19:**
- - Learned to combine OOP with file handling
- - Stored and retrieved objects using CSV files
- - Built Expense Tracker using OOP and file handling
- - Improved understanding of real-world data storage
+  - Learned to combine OOP with file handling
+  - Stored and retrieved objects using CSV files
+  - Built Expense Tracker using OOP and file handling
+  - Improved understanding of real-world data storage
 
 - **Day 20:**
- - Revised OOP with file handling concepts
- - Practiced storing and analyzing data using CSV files
- - Built Movie Collection System with search and rating features
- - Improved logic building and real-world system design
+  - Revised OOP with file handling concepts
+  - Practiced storing and analyzing data using CSV files
+  - Built Movie Collection System with search and rating features
+  - Improved logic building and real-world system design
 
 - **Day 21:**
- - Learned advanced OOP concepts with multiple class interaction
- - Built systems using object relationships
- - Created Library Management System with book issuing logic
- - Improved real-world problem modeling skills
+  - Learned advanced OOP concepts with multiple class interaction
+  - Built systems using object relationships
+  - Created Library Management System with book issuing logic
+  - Improved real-world problem modeling skills
 
 - **Day 22:**
- - Revised advanced OOP concepts with multiple class interactions
- - Built systems like Cart, Bank, and Teacher-Subject mapping
- - Created Restaurant Order Management System
- - Improved object relationship and logic-building skills
+  - Revised advanced OOP concepts with multiple class interactions
+  - Built systems like Cart, Bank, and Teacher-Subject mapping
+  - Created Restaurant Order Management System
+  - Improved object relationship and logic-building skills
 
 - **Day 23:**
- - Practiced Encapsulation (data protection)
- - Learned private variables and getter/setter methods
- - Built Secure Wallet System project
- - Improved control over data access
+  - Practiced Encapsulation (data protection)
+  - Learned private variables and getter/setter methods
+  - Built Secure Wallet System project
+  - Improved control over data access
+
+- **Day 24:**
+  - Practiced Inheritance (code reuse)
+  - Learned parent-child class relationship
+  - Understood method overriding
+  - Built Course Management System project
+
+- **Day 25:**
+  - Practiced Polymorphism (same method, different behavior)
+  - Learned method overriding
+  - Built Smart Delivery Management System
+  - Improved dynamic thinking in OOP
+
+- **Day 26:**
+  - Practiced Abstraction using abstract classes
+  - Learned how to hide implementation details
+  - Used ABC module and abstract methods
+  - Built Smart Vehicle Control System
+
+- **Day 27:**
+  - Revised Encapsulation, Inheritance, Polymorphism, and Abstraction
+  - Practiced combining all OOP pillars together
+  - Built Smart Hospital Management System
+  - Improved real-world software design thinking
+
+
+
+
 
 
 
