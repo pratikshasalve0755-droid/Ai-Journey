@@ -38,7 +38,7 @@ class Bike(Vehicle):
 
 class Truck(Vehicle):
     def __init__(self,brand, works_on , load_capacity):
-        super().__init__(brand)
+        super().__init__(brand , works_on)
         self.works_on = works_on
         self.load_capacity = load_capacity
 
@@ -59,6 +59,7 @@ truck = Truck("Tata" , "Diesel" , 15)
 Vehicles = [ car, bike ,truck ]
 
 for  v in Vehicles:
+    print("\n-------------------")
     print(v.get_brand())
     print(v.start_engine())
     print(v.stop_engine())
