@@ -57,8 +57,8 @@ class Receptionist(HospitalStaff):
                 f"Desk No. : {self.desk_no}")
 
 doctor = Doctor("D101" , "Dr. Shraddha Gaikwad" , "Cardiologist")
-nurse = Nurse("N205" , "Rutuja k." , "Day Shift")
-recep = Receptionist("R303" , "Neha A" , 5)
+nurse = Nurse("N205" , "Rutuja S." , "Day Shift")
+recep = Receptionist("R303" , "Neha k." , 5)
 
 staff_members = [doctor , nurse , recep]
 
