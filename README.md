@@ -190,6 +190,14 @@ This is just the beginning.
   - Built Smart Hospital Management System
   - Improved real-world software design thinking
 
+- **Day 28:**
+  - Learned Modules and Packages in Python
+  - Practiced importing and organizing code
+  - Built structured multi-file Movie Booking System
+  - Improved project organization skills
+
+- **Day 29:**
+
 
 
 
