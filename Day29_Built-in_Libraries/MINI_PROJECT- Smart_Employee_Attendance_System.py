@@ -25,9 +25,6 @@ while True:
         print("Invalid Option!")
         continue
 
-    if option == 5:
-        print("Thanks For visiting!")
-        break
 
     if option == 1:
         details = {
@@ -45,6 +42,12 @@ while True:
         if attendee:
             for record in attendee:
                 print(f"\nEmployee name: {record['Emp_name']}")
+                name = input("Enter Employee Name: ").strip()
+
+                if not name:
+                    print("Employee name cannot be empty!")
+                    continue
+
                 print(f"Date : {record['Date']}")
                 print(f"Time : {record['Time']}")
                 print("--------------------------")
@@ -52,11 +55,38 @@ while True:
             print("No Attendance Records!")
 
     elif option == 3:
-        print(f"Total Employees Marked: {len(attendee)}")
+        if not attendee:
+            print("No Attendance Records!")
+            break
+
+        else:
+            import statistics
+
+            name_lengths = []
+
+            for record in attendee:
+                name_lengths.append(len(record["Emp_name"]))
+
+            longest_name_len = max(attendee , key =lambda x: len(x["Emp_name"]))["Emp_name"]
+            shortest_name_len = min(attendee, key = lambda x: len(x["Emp_name"]))["Emp_name"]
+
+            print(" === Attendance Statistics ===")
+            print(f"\nTotal Employees Marked: {len(attendee)}")
+            print(f"Average Name Length: {statistics.mean(name_lengths):}")
+            print(f"Longest Employee Name: {longest_name_len}")
+            print(f"Shortest Employee Name: {shortest_name_len}")
+            print(f"First Employee Name: {attendee[0]["Emp_name"]}")
+            print(f"Last Employee Name: {attendee[-1]["EMp_name"]}")
 
     elif option == 4:
         print(f"Current Working Directory: \n {os.getcwd()}")
 
+    elif option == 5:
+        print("Thanks For visiting!")
+        break
+
+    else:
+        print("Invalid Option!")
 
 
 
