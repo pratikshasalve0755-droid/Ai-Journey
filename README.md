@@ -197,6 +197,10 @@ This is just the beginning.
   - Improved project organization skills
 
 - **Day 29:**
+  - Learned Python built-in libraries
+  - Practiced math, random, datetime, os and statistics modules
+  - Built Smart Employee Attendance System
+  - Understood how Python provides ready-made tools for real-world tasks
 
 
 
