@@ -55,28 +55,23 @@ while True:
             print("No Attendance Records!")
 
     elif option == 3:
-        if not attendee:
-            print("No Attendance Records!")
-            break
+        import statistics
 
-        else:
-            import statistics
+        name_lengths = []
 
-            name_lengths = []
+        for record in attendee:
+            name_lengths.append(len(record["Emp_name"]))
 
-            for record in attendee:
-                name_lengths.append(len(record["Emp_name"]))
+        longest_name = max(attendee, key=lambda x: len(x["Emp_name"]))["Emp_name"]
+        shortest_name = min(attendee, key=lambda x: len(x["Emp_name"]))["Emp_name"]
 
-            longest_name_len = max(attendee , key =lambda x: len(x["Emp_name"]))["Emp_name"]
-            shortest_name_len = min(attendee, key = lambda x: len(x["Emp_name"]))["Emp_name"]
-
-            print(" === Attendance Statistics ===")
-            print(f"\nTotal Employees Marked: {len(attendee)}")
-            print(f"Average Name Length: {statistics.mean(name_lengths):}")
-            print(f"Longest Employee Name: {longest_name_len}")
-            print(f"Shortest Employee Name: {shortest_name_len}")
-            print(f"First Employee Name: {attendee[0]["Emp_name"]}")
-            print(f"Last Employee Name: {attendee[-1]["EMp_name"]}")
+        print("\n===== Attendance Statistics =====")
+        print(f"Total Employees       : {len(attendee)}")
+        print(f"Average Name Length   : {statistics.mean(name_lengths):.2f}")
+        print(f"Longest Name          : {longest_name}")
+        print(f"Shortest Name         : {shortest_name}")
+        print(f"First Employee        : {attendee[0]['Emp_name']}")
+        print(f"Last Employee         : {attendee[-1]['Emp_name']}")
 
     elif option == 4:
         print(f"Current Working Directory: \n {os.getcwd()}")
