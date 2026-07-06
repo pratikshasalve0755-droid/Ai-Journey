@@ -202,6 +202,12 @@ This is just the beginning.
   - Built Smart Employee Attendance System
   - Understood how Python provides ready-made tools for real-world tasks
 
+- **Day 30:**
+  - Learned advanced file handling
+  - Practiced different file modes
+  - Worked with multiple text files
+  - Built Smart Personal Diary System
+  - Improved data persistence and file management
 
 
 
