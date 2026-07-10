@@ -1,5 +1,5 @@
-# Mini Project:Contact Book Manager
-print("Mini Project: Contact Book Manager")
+# Mini app:Contact Book Manager
+print("Mini app: Contact Book Manager")
 
 contact_book = {}
 

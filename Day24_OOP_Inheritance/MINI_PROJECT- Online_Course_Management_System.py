@@ -1,5 +1,5 @@
-# Mini Project : Online Course Management System
-print("Mini Project : Online Course Management System")
+# Mini app : Online Course Management System
+print("Mini app : Online Course Management System")
 
 class User:
     def __init__(self , name , email):

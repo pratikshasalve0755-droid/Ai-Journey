@@ -1,5 +1,5 @@
-# Mini Project 1: Movie Collection Manger
-print("Mini Project 1:Movie Collection Manager")
+# Mini app 1: Movie Collection Manger
+print("Mini app 1:Movie Collection Manager")
 
 movies_list = []
 

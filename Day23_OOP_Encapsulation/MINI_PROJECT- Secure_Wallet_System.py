@@ -1,5 +1,5 @@
-# Mini Project : Secure Wallet System
-print("Mini Project : Secure Wallet System ")
+# Mini app : Secure Wallet System
+print("Mini app : Secure Wallet System ")
 
 class Wallet:
     def __init__(self ,name , balance):

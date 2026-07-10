@@ -1,5 +1,5 @@
-# Mini Project : Smart Personal Diary
-print("\nMini Project : Smart_Personal_Diary_System")
+# Mini app : Smart Personal Diary
+print("\nMini app : Smart_Personal_Diary_System")
 
 
 import os

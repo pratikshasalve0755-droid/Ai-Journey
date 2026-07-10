@@ -1,5 +1,5 @@
-# Mini Project: Smart Vehicle Control System
-print("Mini Project: Smart Vehicle Control System")
+# Mini app: Smart Vehicle Control System
+print("Mini app: Smart Vehicle Control System")
 
 
 from abc import ABC , abstractmethod

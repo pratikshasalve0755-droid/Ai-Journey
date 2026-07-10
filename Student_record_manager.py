@@ -1,6 +1,6 @@
-# Mini Project : Student Record Manager
+# Mini app : Student Record Manager
 
-print("\nMini Project : Student Record Manager")
+print("\nMini app : Student Record Manager")
 print("\n")
 name = input("Enter name:")
 age = int(input("Enter age: "))

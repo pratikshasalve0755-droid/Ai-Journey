@@ -1,5 +1,5 @@
-# Mini Project : Restaurant Order Management System
-print(" Mini Project: Restaurant Order Management System")
+# Mini app : Restaurant Order Management System
+print(" Mini app: Restaurant Order Management System")
 
 class Dish:
     def __init__(self, dish_name , dish_price):

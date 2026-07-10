@@ -1,5 +1,5 @@
-#Mini Project: Shopping Cart Manager
-print("Mini Project: Shopping Cart Manager")
+#Mini app: Shopping Cart Manager
+print("Mini app: Shopping Cart Manager")
 
 print("\n---------Shopping Cart Manager----------")
 cart = []

@@ -1,4 +1,4 @@
-#Mini Project: Budget_Tracker_System
+#Mini app: Budget_Tracker_System
 
 import csv
 import os

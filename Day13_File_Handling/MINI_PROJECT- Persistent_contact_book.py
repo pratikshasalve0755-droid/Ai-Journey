@@ -1,5 +1,5 @@
-#Mini Project : Persistent Contact Book
-print("Mint Project: Persistent Contact Book")
+#Mini app : Persistent Contact Book
+print("Mint app: Persistent Contact Book")
 
 while True:
     print("-----Welcome to Contacts Book-----")

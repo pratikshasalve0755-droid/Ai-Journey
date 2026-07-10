@@ -1,5 +1,5 @@
-# Mini Project : Movie_Collection_Manager.py
-print("\nMini Project : Movie/Drama_Collection_Manager.py")
+# Mini app : Movie_Collection_Manager.py
+print("\nMini app : Movie/Drama_Collection_Manager.py")
 
 import csv
 import os

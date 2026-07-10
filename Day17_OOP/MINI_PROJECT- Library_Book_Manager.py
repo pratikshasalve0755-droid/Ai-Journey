@@ -1,5 +1,5 @@
-# Mini Project : Library Book Manager (OOP version)
-print(" Mini Project : Library Book Manager (OOP version)")
+# Mini app : Library Book Manager (OOP version)
+print(" Mini app : Library Book Manager (OOP version)")
 
 class Book:
     def __init__(self,title, author,year):

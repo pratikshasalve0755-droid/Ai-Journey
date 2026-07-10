@@ -1,6 +1,6 @@
-#Mini Project:Text Analyzer pro
+#Mini app:Text Analyzer pro
 
-print("Mini Project: Text Analyzer")
+print("Mini app: Text Analyzer")
 
 sentence = input("\nsentence: ")
 sentence = sentence.lower()

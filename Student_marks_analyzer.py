@@ -1,4 +1,4 @@
-# Mini Project 2: Student Marks Analyzer
+# Mini app 2: Student Marks Analyzer
 
 marks =[]
 num = int(input("\nEnter number of students:"))

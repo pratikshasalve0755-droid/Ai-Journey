@@ -1,5 +1,5 @@
-# Mini Project : Upgrade Budget Tracker
-print("Mini Project: Upgraded Budget Tracker System")
+# Mini app : Upgrade Budget Tracker
+print("Mini app: Upgraded Budget Tracker System")
 
 import csv
 import os

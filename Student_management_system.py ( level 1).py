@@ -1,5 +1,5 @@
-#Mini Project: Student Data Management System (Level 1)
-print("Mini Project: Student Data Management System (Level 1)")
+#Mini app: Student Data Management System (Level 1)
+print("Mini app: Student Data Management System (Level 1)")
 
 
 def grade(marks):

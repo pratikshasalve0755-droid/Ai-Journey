@@ -1,9 +1,9 @@
-# Mini Project: Smart Employee Attendance System
-print("\nMini Project: Smart Employee Attendance System")
+# Mini app: Smart Employee Attendance System
+print("\nMini app: Smart Employee Attendance System")
 
 import datetime
 import os
-#import statistics
+import statistics
 
 attendee = []
 
@@ -27,35 +27,41 @@ while True:
 
 
     if option == 1:
+        name = input("Enter Employee Name: ").strip()
+
+        if not name:
+            print("Employee name cannot be empty!")
+            continue
         details = {
 
-            'Emp_name': input("Enter Employee Name:").strip(),
+            "Emp_name": name ,
 
             'Date': str(datetime.date.today()),
             'Time': datetime.datetime.now().strftime("%H:%M:%S")
         }
+
         attendee.append(details)
         print("Attendance Marked!")
 
     elif option == 2:
-        print("== Attendance Records ==")
-        if attendee:
-            for record in attendee:
-                print(f"\nEmployee name: {record['Emp_name']}")
-                name = input("Enter Employee Name: ").strip()
-
-                if not name:
-                    print("Employee name cannot be empty!")
-                    continue
-
-                print(f"Date : {record['Date']}")
-                print(f"Time : {record['Time']}")
-                print("--------------------------")
-        else:
+        if not attendee:
             print("No Attendance Records!")
+            continue
+
+        print("\n====== Attendance Records ======")
+
+        for record in attendee:
+            print(f"\nEmployee Name : {record['Emp_name']}")
+            print(f"Date          : {record['Date']}")
+            print(f"Time          : {record['Time']}")
+            print("-------------------------------")
+
+
 
     elif option == 3:
-        import statistics
+        if not attendee:
+            print("No Attendance Records!")
+            continue
 
         name_lengths = []
 
@@ -74,7 +80,8 @@ while True:
         print(f"Last Employee         : {attendee[-1]['Emp_name']}")
 
     elif option == 4:
-        print(f"Current Working Directory: \n {os.getcwd()}")
+        print(f"Current Working Directory: ")
+        print(os.getcwd())
 
     elif option == 5:
         print("Thanks For visiting!")

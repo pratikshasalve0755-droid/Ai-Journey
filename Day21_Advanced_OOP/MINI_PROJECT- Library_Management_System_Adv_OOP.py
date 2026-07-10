@@ -1,5 +1,5 @@
-# Mini Project: Library_Management_system_adv_oop.py
-print("Mini Project : Library Management System ")
+# Mini app: Library_Management_system_adv_oop.py
+print("Mini app : Library Management System ")
 
 class Book:
     def __init__(self , title , author ):

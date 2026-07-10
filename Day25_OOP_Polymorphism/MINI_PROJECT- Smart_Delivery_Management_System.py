@@ -1,5 +1,5 @@
-# Mini Project : Smart Delivery Management System
-print("\nMini Project: Smart Delivery Management System")
+# Mini app : Smart Delivery Management System
+print("\nMini app: Smart Delivery Management System")
 
 
 class Delivery:

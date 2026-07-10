@@ -1,5 +1,5 @@
-# Mini Project 2:Gym Member Manager
-print("Mini Project 2: Gym Member Manager")
+# Mini app 2:Gym Member Manager
+print("Mini app 2: Gym Member Manager")
 
 import csv
 import os
@@ -41,7 +41,7 @@ def add_member():
 
         writer.writerow([ name , age ,  membership ])
 
-    print("Members  added succesfully!")
+    print("Members  added successfully!")
 
 
 # ---------- VIEW Member ----------

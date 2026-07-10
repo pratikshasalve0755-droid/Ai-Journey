@@ -1,5 +1,5 @@
-# Mini Project: Smart Hospital Management System
-print("Mini Project: Smart Hospital Management System")
+# Mini app: Smart Hospital Management System
+print("Mini app: Smart Hospital Management System")
 
 
 from abc import ABC, abstractmethod

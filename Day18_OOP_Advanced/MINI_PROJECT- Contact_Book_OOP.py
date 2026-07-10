@@ -1,5 +1,5 @@
-# Mini Project : Contact Book in OOP version
-print("\nMini Project: Contact Book  in OOP version")
+# Mini app : Contact Book in OOP version
+print("\nMini app: Contact Book  in OOP version")
 
 class Contact:
     def __init__(self, name, phone ,email):

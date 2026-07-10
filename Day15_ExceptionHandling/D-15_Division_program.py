@@ -1,5 +1,5 @@
-#Project 2:Division_program (ZeroDivisionError)
-print("\nProject 2:Division_program (ZeroDivisionError)")
+#app 2:Division_program (ZeroDivisionError)
+print("\napp 2:Division_program (ZeroDivisionError)")
 
 try:
     num1 = int(input("\nEnter first number: " ))

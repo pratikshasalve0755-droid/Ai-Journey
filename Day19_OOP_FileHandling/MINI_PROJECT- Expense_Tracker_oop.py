@@ -1,6 +1,6 @@
 
-# Mini Project: Expense Tracker (OOP + CSV)
-print("Mini Project: Expenses Tracker (OOP + CSV")
+# Mini app: Expense Tracker (OOP + CSV)
+print("Mini app: Expenses Tracker (OOP + CSV")
 
 import csv
 import os
