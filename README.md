@@ -209,6 +209,13 @@ This is just the beginning.
   - Built Smart Personal Diary System
   - Improved data persistence and file management
 
+- **Day 31:
+  - Learned Virtual Environments (venv)
+  - Created isolated Python environments
+  - Installed packages using pip
+  - Generated requirements.txt
+  - Learned .gitignore for Python projects
+  - Understood professional project structure
 
 
 
