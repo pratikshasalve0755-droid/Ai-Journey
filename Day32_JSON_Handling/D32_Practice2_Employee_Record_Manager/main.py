@@ -43,7 +43,7 @@ while True:
             "emp_id" : int(input("\nEnter Employee ID:")),
             "name" : input("Enter Employee Name:"),
             "dept" : input("Enter Department:"),
-            "salary" : float(input("Enter Employee Salary:"))
+            "salary" : int(input("Enter Employee Salary:"))
     }
 
 

@@ -1,11 +1,12 @@
 {
-    "name": "Shrutika Jadhav",
+    "name": "Pratiksha Salve",
     "age": 21,
-    "course": " AI & ML",
+    "course": "AI & DS",
     "skills": [
-        " python ",
-        "ml ",
-        "dsa ",
-        " json"
+        "Python ",
+        " Ai ",
+        " DSA ",
+        " Ml ",
+        " Ds"
     ]
 }
