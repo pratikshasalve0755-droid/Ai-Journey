@@ -18,25 +18,29 @@ def load_students():
     return []
 
 def save_students(students):
-    with open(FILENAME , "w")as file:
-        json.dump(students,file , indent=4)
+    with open(FILENAME, "w", encoding="utf-8") as file:
+        json.dump(students, file, indent=4)
 
 
 def add_student():
     students = load_students()
-    student = {
-        "id": int(input("Enter Student Id:")),
-        "name": input("Enter Student Name:"),
-        "age": int(input("Enter Student Age:")),
-        "course": input("Enter Course"),
-        "city": input("Enter City:")
 
-    }
 
-    if not student["name"].strip() == " ":
-        print("The Name can't be empty!")
+    try:
+        student = {
+           "id": int(input("\nEnter Student Id:")),
+           "name": input("Enter Student Name:"),
+           "age": int(input("Enter Student Age:")),
+           "course": input("Enter Course:"),
+           "city": input("Enter City:")
 
-    students.append(student)
+        }
+
+    except ValueError:
+        print("Invalid ID or Age!")
+        return
+
+
 
     for s in students:
         if s["id"] == student["id"]:
@@ -56,15 +60,19 @@ def view_students():
     print("\n===== Smart Student Database System =====")
     for student in students:
         print("-------------------------------")
-        print("Student ID :", student["id"])
-        print("Name : ", student["name"])
-        print("Age :", student["age"])
-        print("Course : ", student["course"])
-        print("City :", student["city"])
+        print("Student ID :",student["id"])
+        print("Name       :",student["name"])
+        print("Age        :",student["age"])
+        print("Course     :",student["course"])
+        print("City       :",student["city"])
         print("-------------------------------")
 def search_student():
 
     students = load_students()
+
+    if not students:
+        print("No Student Records Found!")
+        return
 
     try:
         stu_id = int(input("Enter id:"))
@@ -78,11 +86,11 @@ def search_student():
         if student["id"] == stu_id:
             found = True
             print("\n===== Smart Student Database System =====")
-            print("Student ID :", student["id"])
-            print("Name : ", student["name"])
-            print("Age :", student["age"])
-            print("Course : ", student["course"])
-            print("City :", student["city"])
+            print("\nStudent ID :", student["id"])
+            print("Name       : ", student["name"])
+            print("Age        :", student["age"])
+            print("Course     : ", student["course"])
+            print("City       :", student["city"])
             break
 
     if not found:
@@ -90,6 +98,10 @@ def search_student():
 
 def update_student():
     students = load_students()
+
+    if not students:
+        print("No Student Records Found!")
+        return
 
     try:
         stu_id = int(input("Enter Student Id want to be update:"))
@@ -103,7 +115,13 @@ def update_student():
         if stu["id"] == stu_id:
             found = True
             stu["name"]= input("Enter Student Name:")
-            stu["age"]= int(input("Enter New Age"))
+            try:
+              stu["age"]= int(input("Enter New Age"))
+
+            except ValueError:
+                print("Invalid Age!")
+                return
+
             stu["course"]= input("Enter New Course:")
             stu["city"]= input("Enter New City:")
             break
@@ -118,6 +136,11 @@ def update_student():
 def delete_student():
 
     students = load_students()
+
+    if not students:
+        print("No Student Records Found!")
+        return
+
     try:
         stu_id = int(input("Enter Student id:"))
 
