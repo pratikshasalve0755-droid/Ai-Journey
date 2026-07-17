@@ -209,7 +209,7 @@ This is just the beginning.
   - Built Smart Personal Diary System
   - Improved data persistence and file management
 
-- **Day 31:
+- **Day 31:**
   - Learned Virtual Environments (venv)
   - Created isolated Python environments
   - Installed packages using pip
@@ -217,6 +217,18 @@ This is just the beginning.
   - Learned .gitignore for Python projects
   - Understood professional project structure
 
+- **Day 32:**
+ - Learned JSON handling in Python
+ - Practiced reading and writing JSON files
+ - Built Student Database System
+ - Improved data persistence and file management skills
+
+
+- **Day 32:**
+ - Learned JSON handling in Python
+ - Practiced reading and writing JSON files
+ - Built Student Database System
+ - Improved data persistence and file management skills
 
 
 
