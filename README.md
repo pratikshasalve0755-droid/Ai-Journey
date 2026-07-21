@@ -223,12 +223,17 @@ This is just the beginning.
  - Built Student Database System
  - Improved data persistence and file management skills
 
-
 - **Day 32:**
  - Learned JSON handling in Python
  - Practiced reading and writing JSON files
  - Built Student Database System
  - Improved data persistence and file management skills
+
+- **Day 33:**
+ - Learned Python Logging
+ - Practiced different log levels
+ - Built Bank Transaction Logger
+ - Improved debugging and application monitoring skills
 
 
 

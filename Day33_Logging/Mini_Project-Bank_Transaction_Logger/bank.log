@@ -1,0 +1,9 @@
+2026-07-22 00:11:48,406 - INFO - Program Started!
+2026-07-22 00:11:48,407 - INFO - Bank Account Created
+2026-07-22 00:11:55,574 - ERROR - Non-numeric Value!
+2026-07-22 00:11:59,936 - INFO - Program Started!
+2026-07-22 00:11:59,936 - INFO - Bank Account Created
+2026-07-22 00:12:14,227 - INFO - ₹1000.0 deposited successfully. Balance = ₹2000.0
+2026-07-22 00:12:19,404 - INFO - ₹200.0 withdrawn successfully. Remaining Balance = ₹1800.0
+2026-07-22 00:12:22,212 - INFO - Pratiksha checked balance. Balance = ₹1800.0
+2026-07-22 00:12:24,669 - INFO - Program Closed!
