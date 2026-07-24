@@ -235,6 +235,12 @@ This is just the beginning.
  - Built Bank Transaction Logger
  - Improved debugging and application monitoring skills
 
+- **Day 34:**
+ - Learned Iterators and Generators
+ - Understood iter(), next(), yield, and StopIteration
+ - Built Smart Library Book Borrowing System
+ - Improved memory-efficient programming skills
+
 
 
 
