@@ -241,6 +241,13 @@ This is just the beginning.
  - Built Smart Library Book Borrowing System
  - Improved memory-efficient programming skills
 
+- **Day 35:**
+ - Learned Python Decorators
+ - Understood wrapper functions and @decorator syntax
+ - Built Smart Online Exam System
+ - Implemented login authentication using decorators
+ - Improved understanding of reusable and modular code
+
 
 
 
