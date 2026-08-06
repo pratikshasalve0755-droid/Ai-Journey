@@ -248,7 +248,12 @@ This is just the beginning.
  - Implemented login authentication using decorators
  - Improved understanding of reusable and modular code
 
-
+- **Day 36:**
+ - Learned Lambda Functions
+ - Understood map(), filter(), and reduce()
+ - Practiced functional programming concepts
+ - Built Smart Shopping Cart System
+ - Improved Python problem-solving using concise code
 
 
 
