@@ -255,8 +255,12 @@ This is just the beginning.
  - Built Smart Shopping Cart System
  - Improved Python problem-solving using concise code
 
-
-
+- **Day 37:**
+ - Learned Advanced List Comprehension
+ - Practiced conditional and nested list comprehensions
+ - Used list comprehension for data transformation and filtering
+ - Built Smart Data Cleaning & Analysis System
+ - Improved understanding of data preprocessing
 
 
 
