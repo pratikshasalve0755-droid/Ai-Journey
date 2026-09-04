@@ -262,5 +262,11 @@ This is just the beginning.
  - Built Smart Data Cleaning & Analysis System
  - Improved understanding of data preprocessing
 
-
+- **Day 38:**
+ - Learned Regular Expressions in Python
+ - Practiced searching and extracting patterns from text
+ - Used the re module
+ - Learned findall(), search(), match(), sub(), and split()
+ - Built Smart Contact Information Extractor
+ - Extracted emails and phone numbers using Regex
 
