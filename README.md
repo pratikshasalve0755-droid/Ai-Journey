@@ -270,3 +270,12 @@ This is just the beginning.
  - Built Smart Contact Information Extractor
  - Extracted emails and phone numbers using Regex
 
+- **Day 39:**
+ - Learned API (Application Programming Interface)
+ - Learned HTTP GET requests and API endpoints
+ - Used Python's requests library
+ - Learned HTTP status codes
+ - Worked with JSON API responses
+ - Practiced extracting and analyzing API data
+ - Learned basic API error handling
+ - Built Smart Weather Information System
