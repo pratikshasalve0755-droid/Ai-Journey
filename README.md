@@ -279,3 +279,12 @@ This is just the beginning.
  - Practiced extracting and analyzing API data
  - Learned basic API error handling
  - Built Smart Weather Information System
+
+- **Day 40:**
+ - Learned Multithreading in Python
+ - Learned threads , target , start() , and join()
+ - Used the threading and time modules 
+ - Learned basic thread safety concepts
+ - Practised running multiple tasks concurrently 
+ - Built Smart Multi-Task Data Processor
+ - 
