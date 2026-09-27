@@ -1,4 +1,4 @@
-#Program 4: Handle IndexError
+#Program 3: Handle IndexError
 print("\nProgram 4: Handle IndexError")
 
 try:

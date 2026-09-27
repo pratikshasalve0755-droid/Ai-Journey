@@ -1,5 +1,5 @@
-# Program 3: Passward  Protection
-print("Program 3: Passward Protection")
+# Program 3: Password  Protection
+print("Program 3: Password Protection")
 
 class User:
     def __init__(self , username , password):

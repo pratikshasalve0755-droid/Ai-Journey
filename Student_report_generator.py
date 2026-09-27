@@ -2,8 +2,8 @@ print("----STUDENT REPORT----")
 
 marks_list =[]
 for i in range(1,6):
-   mark = int(input("Enter marks")
-    marks_list.append(mark)
+   mark = int(input("Enter marks"))
+   marks_list.append(mark)
 print("\nmarks_list=",marks_list)
 name = input("\nEnter student name:")
 

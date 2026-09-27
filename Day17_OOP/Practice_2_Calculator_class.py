@@ -1,7 +1,7 @@
 #Program 2: Class with Methods
 print("\nProgram 2: Calculator class with methods ")
 
-"""class Calculator:
+class Calculator:
     def put_data(self):
         self.num1 =  int(input("\nEnter first number:"))
         self.num2 = int(input("Enter second number:"))
@@ -28,7 +28,7 @@ print("\nProgram 2: Calculator class with methods ")
 
 c1 = Calculator()
 c1.put_data()
-c1.display()"""
+c1.display()
 
 class Calculator:
     def put_data(self, num1 ,num2):

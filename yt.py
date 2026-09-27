@@ -123,7 +123,7 @@ class Solution(object):
 #array ,linked list ,  stack queue ."""
 
 
-# Mini app : Secure Wallet System
+""""# Mini app : Secure Wallet System
 print("Mini app : Secure Wallet System ")
 
 class Wallet:
@@ -200,7 +200,31 @@ if __name__ == "__main__":
             break
 
         else:
-            print("Invalid Choice!")
+            print("Invalid Choice!")"""
+
+students = [
+    {"name": "", "marks": 85},
+    {"name": "", "marks": 72},
+    {"name": "Rahul", "marks": 35},
+    {"name": "Ananya", "marks": 91},
+    {"name": "", "marks": 48},
+    {"name": "Rohan", "marks": 67},
+    {"name": "Sneha", "marks": 78},
+    {"name": "", "marks": 56},
+    {"name": "Aarav", "marks": 93},
+    {"name": "Kavya", "marks": 39}
+]
 
 
+def passing_students():
+    new_list = [s for s in students if not s['name']]
+    for stud in new_list:
+        new_list.append(stud)
+
+    marks = [ m for m in students if m['marks']  >= 40]
+
+    print(f"\nName   : {stud['name']}   Marks : {marks['marks']} ")
+    print("-----------------------------------------------")
+
+passing_students()
 

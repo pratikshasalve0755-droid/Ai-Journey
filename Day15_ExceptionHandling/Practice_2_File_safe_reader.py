@@ -1,4 +1,4 @@
-#Program 3: Open Non-Existing  File
+#Program 2: Open Non-Existing  File
 print("\nProgram 3: Open Non-Existing  File")
 
 while True:

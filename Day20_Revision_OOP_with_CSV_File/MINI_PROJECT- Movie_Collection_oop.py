@@ -1,4 +1,4 @@
-# Mini app : Movie_Collection_Manager.py
+# Mini app : MINI_PROJECT(2)- Movie_Collection_Manager.py
 print("\nMini app : Movie/Drama_Collection_Manager.py")
 
 import csv
